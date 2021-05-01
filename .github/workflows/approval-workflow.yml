@@ -1,1 +1,2 @@
 name: Yinxuan Du's approval workflow (CSE110-Lab5-SP21)
+on: pull_request_review
